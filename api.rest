@@ -1,0 +1,3 @@
+@api_movies = 'http://localhost:5000/api/movies'
+
+GET {{api_movies}}

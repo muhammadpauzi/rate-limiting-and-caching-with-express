@@ -1,0 +1,49 @@
+{
+    "movies": [
+        {
+            "title": "Movie 1",
+            "viewers": 12030394,
+            "director": "Director 1",
+            "description": "This is dummy description.",
+            "casts": [
+                "Cast 1",
+                "Cast 2",
+                "Cast 3"
+            ]
+        },
+        {
+            "title": "Movie 2",
+            "viewers": 22030394,
+            "director": "Director 2",
+            "description": "This is dummy description.",
+            "casts": [
+                "Cast 1",
+                "Cast 2",
+                "Cast 3"
+            ]
+        },
+        {
+            "title": "Movie 3",
+            "viewers": 33030394,
+            "director": "Director 3",
+            "description": "This is dummy description.",
+            "casts": [
+                "Cast 1",
+                "Cast 2",
+                "Cast 3"
+            ]
+        },
+        {
+            "title": "Movie 4",
+            "viewers": 44030394,
+            "director": "Director 4",
+            "description": "This is dummy description.",
+            "casts": [
+                "Cast 1",
+                "Cast 2",
+                "Cast 3",
+                "Cast 4"
+            ]
+        }
+    ]
+}
